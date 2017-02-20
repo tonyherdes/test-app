@@ -16,5 +16,9 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+    public void GetData(string text)
+        {
+            // etc etc
+        }
     }
 }
